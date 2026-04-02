@@ -1,0 +1,18 @@
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Build artifacts
+target/
+*.class
+*.jar
+*.war
+
+# Sensitive information
+src/main/resources/application.yml
+.env
+secret.properties
+
+# Log files
+*.log
